@@ -61,3 +61,13 @@ Contributions are welcome! Feel free to submit **pull requests** or **open issue
 ## Contact
 For any questions or suggestions, reach out via GitHub issues or email **incogbyte@protonmail.com**.
 
+### POC
+
+<img width="785" alt="image" src="https://github.com/user-attachments/assets/9c2b4470-f531-4cf4-9942-cc54c3ffb6e5" />
+
+<img width="793" alt="image" src="https://github.com/user-attachments/assets/05d51e3f-dc0c-4503-9b65-cfcb70c89018" />
+
+<img width="646" alt="image" src="https://github.com/user-attachments/assets/7449b76e-6786-408d-ad60-d82169d7ef05" />
+
+<img width="637" alt="image" src="https://github.com/user-attachments/assets/9dafe3fc-198a-4e2f-9b1d-3634d0ad9039" />
+
