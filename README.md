@@ -1,7 +1,7 @@
 # RSA MITM Extension for Burp Suite
 
 ## Overview
-This Burp Suite extension facilitates a **Man-in-the-Middle (MITM) attack** on **RSA-encrypted** communications. It enables security analysts and penetration testers to **intercept, decrypt, and encrypt** RSA traffic within Burp Suite’s **Repeater tool**. The extension supports **loading custom MITM RSA keys (public and private) and the original public key**, allowing seamless **decryption and re-encryption** of intercepted data.
+This Burp Suite extension facilitates a **Man-in-the-Middle (MITM) attack** on **RSA-encrypted** communications. It enables security analysts and penetration testers to **intercept, decrypt, and encrypt** RSA traffic within Burp Suite’s **Repeater tool**. The extension supports **loading custom MITM RSA keys (public and private) and the original public key**, allowing seamless **decryption and re-encryption** of intercepted data. This tools was inspired by **https://github.com/morkin1792/Re-Encrypt**
 
 ## Features
 - **Load MITM RSA public and private keys**
