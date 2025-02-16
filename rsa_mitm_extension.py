@@ -98,7 +98,6 @@ class BurpExtender(IBurpExtender, IMessageEditorTabFactory):
         except Exception as e:
             self.stderr.println("[!] Unable to find original pub key" + str(e))
 
-    # Função auxiliar para converter array de bytes Java para string Python
     def _javaBytesToString(self, jbytes):
         return "".join([chr(b & 0xff) for b in jbytes])
 
